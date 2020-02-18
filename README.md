@@ -1,4 +1,4 @@
-# pasquim
+# Flutter Example
 
 Projeto para explicar os basicos de flutter.
 
