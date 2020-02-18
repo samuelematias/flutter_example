@@ -1,6 +1,5 @@
+import 'package:example/src/ui/widgets/button/primary_button.dart';
 import 'package:flutter/material.dart';
-
-import 'ui/widgets/button/primary_button.dart';
 
 void main() => runApp(MyApp());
 
