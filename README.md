@@ -1,15 +1,17 @@
-# example
+# pasquim
 
-A new Flutter project.
+Projeto para explicar os basicos de flutter.
+
+<p align="center">
+  <img src="https://i.imgur.com/ZrolIKG.png" height="224"  /><br/>
+</p>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This project is a starting point for a Dart
+[package](https://flutter.dev/developing-packages/),
+a library module containing code that can be shared easily across
+multiple Flutter or Dart projects.
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
