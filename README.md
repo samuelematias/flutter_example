@@ -3,7 +3,7 @@
 Projeto para explicar os basicos de flutter.
 
 <p align="center">
-  <img src="https://i.imgur.com/ZrolIKG.png" height="224"  /><br/>
+  <img src="https://i.imgur.com/ZrolIKG.png"  /><br/>
 </p>
 
 ## Getting Started
